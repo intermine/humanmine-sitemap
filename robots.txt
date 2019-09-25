@@ -1,0 +1,5 @@
+user-agent: *
+
+Sitemap: http://www.humanmine.org/sitemap-index.xml
+
+

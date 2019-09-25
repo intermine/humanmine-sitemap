@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<sitemap>
+<loc>http://www.humanmine.org/sitemap0.xml</loc>
+<lastmod>2019-07-30</lastmod>
+<changefreq>monthly</changefreq><priority>0.5</priority>
+</sitemap>
+<sitemap>
+<loc>http://www.humanmine.org/sitemap1.xml</loc>
+<lastmod>2019-07-30</lastmod>
+<changefreq>monthly</changefreq><priority>0.5</priority>
+</sitemap>
+</sitemapindex>
